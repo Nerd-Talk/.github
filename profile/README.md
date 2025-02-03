@@ -10,6 +10,6 @@ Nerd Talk is a passionate software developer community where creativity and code
 ## 🌱 Learning & Growth
 Nerd Talk is eager to explore:
 - React
-- Azure.
+- Azure
 - Continuous Integration/Continuous Deployment (CI/CD) pipelines.
 - .NET
